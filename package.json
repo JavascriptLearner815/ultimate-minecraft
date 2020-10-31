@@ -2,8 +2,9 @@
   "name": "ultimate-minecraft",
   "version": "1.0.0",
   "description": "This is not your normal Minecraft. Everything is tweaked.",
-  "main": "index.js",
+  "main": "code/index.js",
   "scripts": {
+    "start": "node .",
     "test": "nodemon ."
   },
   "repository": {
