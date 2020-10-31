@@ -1,0 +1,10 @@
+.env
+.env.test
+config.*
+.pem
+private.*
+/private/
+.eslintrc.*
+.eslintrc
+.node
+.npm
