@@ -1,0 +1,27 @@
+{
+  "name": "ultimate-minecraft",
+  "version": "1.0.0",
+  "description": "This is not your normal Minecraft. Everything is tweaked.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavascriptLearner815/ultimate-minecraft.git"
+  },
+  "keywords": [
+    "discord.js"
+  ],
+  "author": "Dean Summer <deanlovesmargie@gmail.com> (https://javascriptlearner815.github.io/SpeedoThreeSixty/)",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/JavascriptLearner815/ultimate-minecraft/issues"
+  },
+  "homepage": "https://github.com/JavascriptLearner815/ultimate-minecraft#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "eslint": "^7.12.1",
+    "nodemon": "^2.0.6"
+  }
+}

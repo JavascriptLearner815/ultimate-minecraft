@@ -1,4 +1,4 @@
-const { token, secret, publicKey, id, prefix } = require('./config.json');
+const { token, secret, publicKey, id, prefix, description, botUser } = require('./config.json');
 
 const Discord = require('discord.js');
 const client = new Discord.Client();
