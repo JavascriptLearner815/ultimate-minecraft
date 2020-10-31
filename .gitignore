@@ -3,8 +3,9 @@
 config.*
 .pem
 private.*
-/private/
+/private
 .eslintrc.*
 .eslintrc
 .node
 .npm
+/node_modules
